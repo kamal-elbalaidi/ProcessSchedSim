@@ -82,7 +82,7 @@ pip install matplotlib
            - 1 FIFO
            - 2 Plus court d'abord
            - 3 Round Robin
-            Chose (1-3): 1
+           - Chose (1-3): 1
 
 ### Output Example:
 A Gantt chart showing the execution schedule of the selected algorithm.
