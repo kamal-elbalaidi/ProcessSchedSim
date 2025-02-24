@@ -70,11 +70,19 @@ pip install matplotlib
 
 ## Examples
 ### Input Example:
-- Number of processes: 3
+- Number of processes: 1
 - Process details:
-  - P1: Arrival = 0, Burst = 8
-  - P2: Arrival = 1, Burst = 4
-  - P3: Arrival = 2, Burst = 9
+   - Enter processes:
+        - Process 1:
+            Date: 1
+            Duree: 2
+            Priority: 1
+
+        - Algorithem
+            1. FIFO
+            2. Plus court d'abord
+            3. Round Robin
+            Chose (1-3): 1
 
 ### Output Example:
 A Gantt chart showing the execution schedule of the selected algorithm.
