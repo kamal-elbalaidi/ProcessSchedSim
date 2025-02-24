@@ -74,14 +74,14 @@ pip install matplotlib
 - Process details:
    - Enter processes:
         - Process 1:
-            Date: 1
-            Duree: 2
-            Priority: 1
+           - Date: 1
+           - Duree: 2
+           - Priority: 1
 
         - Algorithem
-            1. FIFO
-            2. Plus court d'abord
-            3. Round Robin
+           - 1 FIFO
+           - 2 Plus court d'abord
+           - 3 Round Robin
             Chose (1-3): 1
 
 ### Output Example:
