@@ -80,7 +80,7 @@ pip install matplotlib
 
         - Algorithem
            - 1 FIFO
-           - 2 Plus court d'abord
+           - 2 SJF
            - 3 Round Robin
            - Chose (1-3): 1
 
